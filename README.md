@@ -14,7 +14,7 @@ Este repositorio contiene los ejemplos y ejercicios para completar el curso.
 
 ## Source
 
-Estos ejercicios y ejemplps forman parte del curso de Udemy
+Estos ejercicios y ejemplos forman parte del curso de Udemy
 
-[Curso completo programaciÛn C# en .Net y muchÌsimo m·s | Udemy](https://www.udemy.com/course/master-programacion-netnet-core-c-con-visual-studio/?couponCode=OT50624NEW)
+[Curso completo programaci√≥n C# en .Net y much√≠simo m√°s | Udemy](https://www.udemy.com/course/master-programacion-netnet-core-c-con-visual-studio/?couponCode=OT50624NEW)
 
